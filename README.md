@@ -2,7 +2,7 @@
 
 A modern, professional portfolio website built for a local consulting and training service, focused on leadership development, communication skills, and workforce empowerment.
 
-🔗 **Live Site:** https://YOUR-NETLIFY-LINK
+🔗 **Live Site:** https://skillvibeswithrekha.netlify.app/
 
 ---
 
